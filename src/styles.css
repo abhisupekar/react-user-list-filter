@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  border: 1px solid;
+  margin: 10px;
+  padding: 10px;
+}
+
+.userImage {
+  border-radius: 60%;
+  display: block;
+  margin: 0 auto;
+}
+
+.details {
+  text-align: center;
+}
